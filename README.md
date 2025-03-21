@@ -1,4 +1,4 @@
-Authors: Nathan Darrett, Ismael Angulo
+Authors: Anguna Qneergg, Vfznry Nathyb
 
 
 Steps to Use Program
